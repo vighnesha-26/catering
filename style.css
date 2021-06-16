@@ -1,0 +1,334 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.header
+{
+    height: 100%;
+    background-image: url(fo4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+}
+.headers2
+{
+    height: 100%;
+    background-image: url(fo1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+}
+.i1
+{
+     background-image: url(f6.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+}
+.header img
+{
+    width: 80px;
+    height: 40px;
+    float: right;
+    image-orientation: transparent;
+}
+.login-btn
+{
+    left: 700px;
+    position: fixed;
+    bottom: 180px;
+    width: 100px;
+    padding: 10px 0;
+    outline: none !important;
+    border; 2px solid #fff;
+    border-radius: 50px;
+    background: white;
+    color: #fff;
+    float: center;
+
+}
+.login-btn1
+{
+   position: fixed;
+    bottom: 80px;
+    width: 80px;
+    padding: 10px 0;
+    outline: none !important;
+    border; 2px solid #fff;
+    border-radius: 50px;
+    background: white;
+    color: #fff;
+  float: inherit;
+
+}
+.header h1
+{
+    padding-top: 200px;
+    padding-bottom: 0;
+    font-size: 55px;
+}
+.header p
+{
+    margin: 30px;
+    color: white;
+    font-size: 20px;
+}
+.input-group
+{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 30px;
+    background: #fff;
+    margin: auto;
+}
+.form-control
+{
+    border; 0 !important;
+    box-shadow: none !important;
+}
+.input-group-text
+{
+    width: 100px;
+    background-image: linear-gradient(#00ff7e,#1f3d90);
+    border: 0 !important;
+    color: #fff !important;
+    
+}
+.features
+{
+    padding: 100px 0;
+}
+h1
+{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.feature-img img
+{
+    width: 100%;
+}
+.price
+{
+    width: 50px;
+    height: 50px;
+    background: #ff5722;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
+    position: absolute;
+    left: 10px;
+    bottom: -20px;
+}
+.feature-img
+{
+    position: relative;
+}
+.features .fa
+{
+    font-size: 15px;
+    color: coral;
+}
+.feature-details
+{
+    padding: 20px;
+    text-align: justify;
+}
+.feature-details h4
+{
+    font-weight: 600;
+    margin-left: 20px;
+}
+.feature-details .fa
+{
+   margin-right : 5px;
+}
+
+.feature-box
+{
+margin-right: 30px;
+}
+
+.loginbox
+{
+    width 320px;
+    height: 420px;
+    background: linear-gradient(#00fffe,#1f3d90);
+    color: ghostwhite;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+.signupbox
+{
+    width : 320px;
+    height: 480px;
+    background: linear-gradient(#00fffe,#1f3d90);
+    color: ghostwhite;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    background: url(gifimage.gif);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.avatar
+{
+    width: 50px;
+    padding: 20px;
+    height: 50px;
+    border: absolute;
+    top: -120px;
+    left: calc(50% - 50px);
+    align-content: center;
+}
+
+h1
+{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+.loginbox input
+{
+    width: 100;
+    margin-bottom: 20px;
+}
+.loginbox p
+
+{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    
+}
+.signupbox p
+
+{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    
+}
+.signupbox input[type="text"], input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+}
+.signupn-btn input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 5px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.loginbox input[type="text"], input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+}
+.login-btn input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 5px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+
+.header2
+{
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(gg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+    color: white;
+}
+.header2 img
+{
+    width: 80px;
+    height: 40px;
+    float: left;
+    image-orientation: transparent;
+    
+}
+
+.signup-btn
+{
+
+    position: fixed;
+    bottom: 180px;
+    left: 450px;
+    width: 100px;
+    padding: 10px 0;
+    outline: none !important;
+    border; 2px solid #fff;
+    border-radius: 50px;
+    background: white;
+    color: #fff;
+    float: center;
+
+}
+.header h
+{
+    padding-top: 200px;
+    padding-bottom: 0;
+    font-size: 55px;
+}
+.header p
+{
+    margin: 30px;
+    color: white;
+    font-size: 20px;
+}
+.input-group
+{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 30px;
+    background: #fff;
+    margin: auto;
+}
+
+
+.header h
+{
+    padding-top: 200px;
+    padding-bottom: 0;
+    font-size: 55px;
+}
